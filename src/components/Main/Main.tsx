@@ -49,7 +49,7 @@ function Main() {
 				setError(null);
 			}
 		} catch (error) {
-			console.error("Ошибка:", error);
+			console.error("Error:", error);
 			setError("Oops... City not found. Try again!");
 			setWeather(null);
 		}
