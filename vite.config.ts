@@ -6,10 +6,10 @@ export default defineConfig({
 	base: "./",
 	plugins: [react()],
 	build: {
-		sourcemap: true,
+		sourcemap: false,
 		outDir: "dist",
 		assetsDir: "assets",
-		// cleanOutDir: true,
+		emptyOutDir: true,
 	},
 	server: {
 		open: true,
