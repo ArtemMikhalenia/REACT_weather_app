@@ -1,0 +1,52 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip9_3709">
+			<rect id="32icon-grid" rx="0.000000" width="31.000000" height="31.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip9_3765">
+			<rect id="Color=On" rx="0.000000" width="31.000000" height="31.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="15.999998" y1="2.000000" x2="15.999998" y2="23.999977" id="paint_linear_9_3711_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#95B6F6"/>
+			<stop offset="1.000000" stop-color="#5193DE"/>
+		</linearGradient>
+		<linearGradient x1="16.500000" y1="17.000000" x2="16.500000" y2="29.000000" id="paint_linear_9_3724_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F5BD52"/>
+			<stop offset="1.000000" stop-color="#F5DA79"/>
+		</linearGradient>
+		<linearGradient x1="21.500000" y1="25.000000" x2="21.501534" y2="30.000000" id="paint_linear_9_3725_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#95B6F6"/>
+			<stop offset="1.000000" stop-color="#5193DE"/>
+		</linearGradient>
+		<linearGradient x1="10.500000" y1="25.000000" x2="10.501534" y2="30.000000" id="paint_linear_9_3726_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#95B6F6"/>
+			<stop offset="1.000000" stop-color="#5193DE"/>
+		</linearGradient>
+		<linearGradient x1="16.000000" y1="2.000000" x2="16.000000" y2="23.999964" id="paint_linear_9_3761_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#95B6F6"/>
+			<stop offset="1.000000" stop-color="#5193DE"/>
+		</linearGradient>
+		<linearGradient x1="16.543608" y1="16.445312" x2="16.543608" y2="29.585505" id="paint_linear_9_3762_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F5BD52"/>
+			<stop offset="1.000000" stop-color="#F5DA79"/>
+		</linearGradient>
+		<linearGradient x1="21.500000" y1="25.000000" x2="21.501534" y2="30.000000" id="paint_linear_9_3763_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#95B6F6"/>
+			<stop offset="1.000000" stop-color="#5193DE"/>
+		</linearGradient>
+		<linearGradient x1="10.500000" y1="25.000000" x2="10.501534" y2="30.000000" id="paint_linear_9_3764_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#95B6F6"/>
+			<stop offset="1.000000" stop-color="#5193DE"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip9_3765)">
+		<rect id="outline" rx="0.000000" width="27.000002" height="27.000000" transform="translate(2.500000 2.500000)" fill="#FFFFFF" fill-opacity="0"/>
+		<path id="Subtract" d="M9 23.34C4.91 21.81 2 17.76 2 13C2 6.92 6.74 2 12.6 2C17.46 2 21.56 5.38 22.82 10.01C22.96 10 23.1 10 23.24 10C26.97 10 30 13.13 30 17C30 20.86 26.97 24 23.24 24C23.16 24 23.08 23.99 23 23.99L23 22L23.3 22L23.3 21.99C25.83 21.96 28 19.81 28 17C28 14.16 25.8 12 23.24 12C22.52 12 21.83 12.17 21.21 12.48C21.17 11.9 21.09 11.33 20.95 10.78L20.95 10.79C20 6.85 16.58 4 12.6 4C7.92 4 4 7.96 4 13C4 16.66 6.07 19.75 9 21.17L9 23.34Z" fill="url(#paint_linear_9_3761_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector 26 (Stroke)" d="M17.16 16.44L18.83 17.55L15.86 22L20.95 22L15.47 29.58L13.85 28.41L17.04 24L12.13 24L17.16 16.44Z" fill="url(#paint_linear_9_3762_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 21 (Stroke)" d="M20.36 26.92C20.15 27.41 20 27.93 20 28.4C20 29.28 20.67 30 21.5 30C22.33 30 23 29.28 23 28.4C23 27.96 22.83 27.43 22.6 26.92C22.16 25.91 21.5 25 21.5 25C21.5 25 20.8 25.88 20.36 26.92Z" fill="url(#paint_linear_9_3763_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 22 (Stroke)" d="M9.36 26.92C9.15 27.41 9 27.93 9 28.4C9 29.28 9.67 30 10.5 30C11.33 30 12 29.28 12 28.4C12 27.96 11.83 27.43 11.6 26.92C11.16 25.91 10.5 25 10.5 25C10.5 25 9.8 25.88 9.36 26.92Z" fill="url(#paint_linear_9_3764_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
