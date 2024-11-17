@@ -14,8 +14,46 @@ html{
 body{
   font-family: "Poppins", sans-serif;
   width: 100%;
-  color: rgba(255,255,255,1);
+  color:  var(--main-font-color);
+
+  --main-background-color: rgba(11, 17, 29, 1);
+  --main-font-color: rgba(255,255,255,1);
+
+  --card-background-color: rgba(32, 44, 60, 1);
+
+  --text-shadow-color: rgba(0, 0, 0, 0.25);
+  --text-color: rgba(118, 129, 145, 1);
+
+  --input-border-color: rgba(171, 172, 175, 1);
+  --button-font-color: rgba(32, 44, 60, 1);
+  --yellow-color: rgba(221, 177, 48, 1);
+
+  --disabled-button-color: rgba(143, 143, 143, 1);
+  --error-color: rgba(251, 255, 0, 1);
+
+  --slider-background-color:rgba(204, 204, 204, 1);
+  --slider-shadow-color:rgba(32, 32, 32, 0.239);
+  --slider-before-background-color:rgba(255,255,255,1);
 }
+
+body.day-theme {
+  --main-background-color: rgba(245, 245, 245, 1);
+  --main-font-color: rgba(32, 43, 59, 1);
+
+  --card-background-color: rgba(224, 226, 229, 1);
+
+  --text-color: rgba(32, 43, 59, 1);
+  
+  --button-font-color: rgba(245, 245, 245, 1);
+  --yellow-color: rgba(68, 163, 255, 1);
+
+  --error-color: rgba(68, 163, 255, 1);
+
+  --slider-background-color:#2196f3;
+  --slider-shadow-color:#2196f3;
+  --slider-before-background-color:rgba(255,255,255,1);
+}
+
 
 *:focus::-webkit-input-placeholder {
 	opacity: 0;

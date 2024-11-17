@@ -91,6 +91,7 @@ function Main() {
 							x: 0,
 							transition: { duration: 0.5 },
 						}}
+						whileHover={disabled ? {} : { scale: 1.05 }}
 						viewport={{ once: true, amount: 0.1 }}
 					>
 						Get weather

@@ -24,27 +24,27 @@
   border: 0;
 
   line-height: 30px;
-  box-shadow: inset rgba(171, 172, 175, 1) 0 0 0 2px;
-  background: rgba(0, 0, 0, 0);
-  color: rgba(255, 255, 255, 1);
+  box-shadow: inset var(--input-border-color) 0 0 0 2px;
+  background: transparent;
+  color: var(--main-font-color);
 
   transition: all 0.5s ease;
 }
 
 .main-section input::placeholder{
-  color: rgba(221, 177, 48, 1);
+  color: var(--yellow-color);
 }
 
 .main-section input:focus{
   outline: 0;
-  box-shadow: 0 0 0 0 rgba(255, 255, 255, 1) inset, rgba(221, 177, 48, 1) 0 0 0 3px;
+  box-shadow: 0 0 0 0 var(--main-font-color) inset, var(--yellow-color) 0 0 0 3px;
 }
 
 .main-section button{
   position: relative;
   max-width: 350px;
   width: 100%;
-  padding: 14px;
+  padding: 15px;
 
   font-size: 24px;
   font-weight: 700;
@@ -52,36 +52,36 @@
   text-align: center;
 
   border-radius: 20px;
-  border: 1px solid rgba(255, 255, 255, 1);
+  border: none;
 
-  color: rgba(32, 44, 60, 1);
-  background-color: rgba(221, 177, 48, 1);
+  color: var(--button-font-color);
+  background-color: var(--yellow-color);
 
   transition: all 0.5s ease 0s;
 }
 
 @media (hover:hover){
   .main-section input:hover{
-    box-shadow: 0 0 0 0 rgba(255, 255, 255, 1) inset, rgba(221, 177, 48, 1) 0 0 0 2px;
+    box-shadow: 0 0 0 0 var(--main-font-color) inset, var(--yellow-color) 0 0 0 2px;
   }
 
   .main-section button:not([disabled]):hover{
-    transform: scale(1.03);
-    color: rgba(221, 177, 48, 1);
-    background-color: rgba(32, 44, 60, 1);
+    transform: scale(1.05);
+    color: var(--yellow-color);
+    background-color: var(--card-background-color);
     cursor: pointer;
   }
 }
 
 .main-section button:disabled{
-  color: rgb(255, 255, 255);
-  background-color: rgb(143, 143, 143);
+  color: var(--main-font-color);
+  background-color: var(--disabled-button-color);
 }
 
 .error-block{
   font-size: 30px;
   font-weight: 700;
-  color:rgb(251, 255, 0);
+  color:var(--error-color);
 
   text-align: center;
 }
